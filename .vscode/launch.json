@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Debug",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/CocoaTest.csproj"
+    }
+
+  ]
+}
